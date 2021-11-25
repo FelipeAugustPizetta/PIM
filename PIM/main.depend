@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637798201 source:c:\users\felip\desktop\trabalho\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1637879258 source:c:\users\felip\onedrive\documentos\trabalho\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<C:\Users\Felip\OneDrive\Documentos\Trabalho\main\equipe-controller.c>
+
